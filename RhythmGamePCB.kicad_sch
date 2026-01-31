@@ -2,9 +2,91 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 8e96afeb-1e8d-42a1-90bb-1e8eb612a4ee)
+	(uuid "8e96afeb-1e8d-42a1-90bb-1e8eb612a4ee")
 	(paper "A4")
 	(lib_symbols)
+	(junction
+		(at 137.16 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57eeef00-33fd-4e38-8f6d-b36664b5313a")
+	)
+	(junction
+		(at 78.74 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f76c1d28-8307-4026-b02a-2c3227a767ac")
+	)
+	(wire
+		(pts
+			(xy 77.47 67.31) (xy 78.74 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07451ba6-854c-45bf-803c-97a769bc81e4")
+	)
+	(wire
+		(pts
+			(xy 78.74 67.31) (xy 137.16 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dd10588-3a13-4961-be2b-71646f0ee79e")
+	)
+	(wire
+		(pts
+			(xy 78.74 90.17) (xy 78.74 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "207cbf0c-e4f6-4351-b0ac-3f9843175b36")
+	)
+	(wire
+		(pts
+			(xy 137.16 67.31) (xy 137.16 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f43f3e4-50cc-480c-a3de-9aad0b5357fa")
+	)
+	(wire
+		(pts
+			(xy 140.97 67.31) (xy 140.97 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e212720-31e4-4a9b-8c62-84b4168bd9b1")
+	)
+	(wire
+		(pts
+			(xy 137.16 67.31) (xy 140.97 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aad5143-cfaf-42e0-bd71-7739544908fd")
+	)
+	(wire
+		(pts
+			(xy 137.16 90.17) (xy 78.74 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a58e3f68-6476-43bc-83ff-721f96e517dd")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
